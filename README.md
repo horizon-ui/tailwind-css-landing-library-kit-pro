@@ -1,7 +1,7 @@
 &nbsp;
 <p align="center">
   <a href="https://horizon-ui.com/landing-kit" target="_blank">
-    <img src="https://i.ibb.co/cDWTPNK/Logo.png" alt="Horizon UI Tailwind CSS Landing Library" width="300px">
+    <img src="https://i.ibb.co/GkrvvDG/Logo.png" alt="Horizon UI Tailwind CSS Landing Library" width="400px" max-width="400px">
   </a>
 </p>
 
